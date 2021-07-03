@@ -1,3 +1,11 @@
 p{
     color: grey;
 }
+#Mimustak{
+    border: 10px solid indianred ;
+    width: 150px;
+    border-radius: 100px;
+}
+html{
+    background-color: lavenderblush;
+}
