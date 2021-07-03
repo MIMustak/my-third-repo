@@ -4,7 +4,9 @@ p{
 #Mimustak{
     border: 10px solid indianred ;
     width: 150px;
-    border-radius: 100px;
+    border-radius: 80px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 html{
     background-color: lavenderblush;
